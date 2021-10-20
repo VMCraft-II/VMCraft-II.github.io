@@ -13,7 +13,7 @@ description = "This site is currently under construction. VMCraft-II is a minecr
 images = ["doks.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+titleHome = "VMCraft-II"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
